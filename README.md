@@ -1,4 +1,4 @@
-Intégrer un thème Wordpress pour le club de sport “Fit Activer”
+Intégrer un thème Wordpress pour le club de sport “Fit Active”
 -----
 
 Le but de ce projet étant de créer un site vitrine pour le club de sport "Fit Active". Ce site vitrine est destiné à promouvoir le club sur Internet et à communiquer sur ses actualités et événements.
